@@ -5,9 +5,9 @@
    "description":"Like Tik Tok Facebook Fanpage now! Have a nice day!",
    "url":"https://goo.gl/rP3hxr",
    "buttonTitle":"Like Now",
-   "client" : "ca-app-pub-6885402663640641",
-   "appid" : "2454247617",
+   "client" : "ca-app-pub-2717647039087356",
+   "appid" : "9865634939",
    "appname" : "com.vlstudio.ImageSearch",
-   "isshow" : false,
+   "isshow" : true,
    "noa" : 10
 }
