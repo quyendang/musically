@@ -8,6 +8,6 @@
    "client" : "ca-app-pub-2717647039087356",
    "appid" : "5231313406",
    "appname" : "com.vlstudio.noc",
-   "isshow" : false,
+   "isshow" : true,
    "noa" : 3
 }
